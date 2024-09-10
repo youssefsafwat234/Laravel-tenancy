@@ -23,5 +23,4 @@ class StoreFactory extends Factory
             'created_at' => Carbon::now(),
             'updated_at' => Carbon::now(),
         ];
-    }
-}
+    }}
